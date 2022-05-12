@@ -1,0 +1,9 @@
+package com.greatlearning;
+
+public class Employee {
+	private int empid;
+	private String empname;
+	private String empadddress;
+	
+
+}
